@@ -1,0 +1,9 @@
+id,name,cap,type,days,night_base,peak_occ,demand_60,demand_90,demand_120
+KHB00434,Costco Dashun,614,weekday,8,0.05,0.95,0.87,0.93,0.98
+KHB00434,Costco Dashun,614,holiday,7,0.04,0.98,0.93,1.0,1.09
+KHB00245,Shin Kong Mitsukoshi Zuoying,1055,weekday,8,0.16,0.63,0.52,0.56,0.6
+KHB00245,Shin Kong Mitsukoshi Zuoying,1055,holiday,4,0.16,0.9,0.84,1.0,1.25
+KHB00247,Carrefour Xinnan,460,weekday,8,0.16,0.46,0.33,0.38,0.42
+KHB00247,Carrefour Xinnan,460,holiday,4,0.17,0.81,0.73,0.76,0.82
+TPE1813,Mitsui LaLaport Nangang,2378,weekday,9,0.17,0.61,0.49,0.52,0.55
+TPE1813,Mitsui LaLaport Nangang,2378,holiday,4,0.16,0.86,0.74,0.78,0.81
